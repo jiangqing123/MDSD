@@ -1,0 +1,14 @@
+Package: MDSD
+Type: Package
+Title: Matching Distributions for Survival Data
+Description: We propose two methods to evaluate and predict the survival rates. One is by matching survival functions (MSF) directly, and the other is based on matching censored quantiles (MQE). Also the two methods can be used for unpaired data.
+Version: 0.1.0
+Date: 2021-1-1
+Author: Qing Jiang, Baosheng Liang
+Maintainer: Qing Jiang <jiangqing@swufe.edu.cn>
+Depends: R (>= 3.2.2)
+Imports: survival, quantreg
+License: GPL (>= 2)
+LazyData: true
+NeedsCompilation: no
+Packaged: 2021-01-19 06:07:29 UTC; lou
